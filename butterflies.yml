@@ -1,0 +1,22 @@
+base_query:
+  locale: en
+  taxon_id: 47224
+  term_id: 1
+  term_value_id: 2
+  photo_license: 'cc-by,cc-by-nc,cc-by-nd,cc-by-sa,cc-by-nc-nd,cc-by-nc-sa,cc0'
+  quality_grade: research
+  popular: true
+  
+days_back:
+  fresh: 1
+  pool: 30
+  used: 1000
+  
+tg_bot:
+  chat_id: '@daily_butterflies_of_the_world'
+  template: message.erb
+  
+unique_taxon: strict
+
+log_level: info
+notify_level: warn
