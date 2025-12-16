@@ -1,0 +1,8 @@
+<% title = "" -%>
+<% if taxon.common_name -%>
+<%   title = "<b>#{taxon.common_name.split.map(&:capitalize).join(' ')}</b> <i>(#{taxon.scientific_name})</i>" -%>
+<% else -%>
+<%   title = "<b><i>#{taxon.scientific_name}</i></b>" -%>
+<% end -%>
+<a href="<%= observation.url %>"><%= title %></a>
+© <a href="<%= user.url %>"><%= user.title %></a>
