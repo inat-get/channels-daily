@@ -8,6 +8,7 @@ base_query:
 days_back:
   fresh: 1
   pool: 30
+  sent: 1000
   used: 1000
   
 tg_bot:
