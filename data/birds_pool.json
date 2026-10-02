@@ -1,488 +1,13 @@
 {
-  "c986df08-5af8-4247-b271-70e5df1410d9": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 15717
-  },
-  "72b11005-9e1e-4a50-88d4-fb5b2bd57d59": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 145130
-  },
-  "644402c0-cae0-4bc9-8f36-44653d48131a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4287
-  },
-  "5257baa6-3de7-42ca-8b8d-f477c6abc294": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 13251
-  },
-  "d148e08b-f81b-4a0d-ae98-d82111b96da4": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5309
-  },
-  "45b0f1c8-f4f1-47a7-b812-21b348c3fdec": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19710
-  },
-  "7db7c6df-4ff7-476f-aba1-2e41107ff649": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 2562
-  },
-  "c64f0472-14fc-4c2f-9855-d675a2c5502a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 144510
-  },
-  "f90cd5e3-05e1-45ff-888e-ad42ddba64ff": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 8064
-  },
-  "de1861db-f84c-463b-bf9a-bd694cec9df0": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9210
-  },
-  "1616d2ef-a65c-4c8b-82ab-472da9de64e0": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 14824
-  },
-  "ad6d0457-b035-4a01-bba6-f9d0fb70c239": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 145229
-  },
-  "a89c53d9-e083-4ff1-be94-103c5ae0deb6": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4672
-  },
-  "606daa11-12a3-48ba-b5a1-505c179ee08a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 2464
-  },
-  "efcfebe6-1b1b-412e-9663-b70a9f570df1": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4923
-  },
-  "3e602e77-d4ad-4852-92fc-34cc197ddde8": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 20359
-  },
-  "a99acefb-a361-4e2c-b7ab-7fd622135956": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19848
-  },
-  "404b98f3-24a4-463f-bf91-d73fe563b6d8": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 8229
-  },
-  "20c1ec7e-9d14-4e77-bd15-5df4145dee98": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 2248
-  },
-  "d3818bc6-e8e3-4e05-a55b-5e5a6681871d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4952
-  },
-  "027ea70a-3780-4c49-a028-52d084380cbd": {
-    "created_at": "2026-09-23",
-    "faves_count": 2,
-    "taxon_id": 16028
-  },
-  "d2896ab3-dee8-4407-abd7-4093a1bdf42d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 62529
-  },
-  "f1a20f71-69f9-4bd7-a06d-64f5bd0a5127": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 792988
-  },
-  "9dca9d91-1e54-47a3-a9c0-8ccf15a9767f": {
-    "created_at": "2026-09-23",
-    "faves_count": 2,
-    "taxon_id": 19565
-  },
-  "b82e85e1-e819-433e-9f3e-c931bddec3b7": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4761
-  },
-  "ff86b0cb-5b88-487f-956b-ecb21985444f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 906
-  },
-  "5a326a6b-3872-4227-80e2-9591b5f60830": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 1289608
-  },
-  "38814b94-004c-4ca4-9785-49e98dd71304": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 793242
-  },
-  "538360e3-6f68-4df6-a678-d44edc214304": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 793155
-  },
-  "d8b9828c-502d-405f-b540-526878ce0741": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3454
-  },
-  "5ecb03c9-a484-41b5-b468-4e0d46a262c5": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 367563
-  },
-  "8c85e1a0-bb93-421a-8b48-71479b2bd0d6": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5536
-  },
-  "654fd619-ade1-45a7-9316-4ea64932d8ec": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 204472
-  },
-  "627bc2b0-4cdd-4a9d-9e6f-7fa5a0e35658": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 8029
-  },
-  "f8392a97-5f0b-42d2-a002-b648baee00a9": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 979756
-  },
-  "030d4673-8242-420c-a3cb-d445aa3aa80b": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 18799
-  },
-  "62d508f1-353d-4d22-8d08-ae93c95ff59e": {
-    "created_at": "2026-09-23",
-    "faves_count": 2,
-    "taxon_id": 4571
-  },
-  "b66ba14a-1119-4330-853b-5ded8f8c13b8": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 1289669
-  },
-  "5a4d1d8d-8d2d-4a43-916c-2ba7552ea5e1": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 2077
-  },
-  "412be918-9a68-4315-9997-ffd392db1420": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6612
-  },
-  "b1656c87-17d1-4102-a88e-8259d5c57cd3": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 558550
-  },
-  "23c2d98b-a0bd-4718-b9f8-84d4aca9f0eb": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 13124
-  },
-  "a432d418-9fa0-4404-9cbf-87884fc9919f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6987
-  },
-  "f6f4b432-1bee-4b41-9f83-892a00640dc4": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4993
-  },
-  "7927217c-e959-4fbd-82d8-0fd0e356b851": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 980260
-  },
-  "33c8fe5d-7fe5-4210-8a6b-874666048221": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 20012
-  },
-  "9d477056-e9b2-436e-b5de-3680d64d195d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 979677
-  },
-  "650f65ce-e759-40ec-b427-0014039b9d7e": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 13732
-  },
-  "a9d3a4b8-5a7b-422b-b83f-b08c761e08f8": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4237
-  },
-  "aed85c0f-a791-4d4a-b74c-303ffbdc199f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5396
-  },
-  "38c0967a-d001-45c3-83b5-24225d692829": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6921
-  },
-  "ea4a9e4e-d1c0-4519-925c-fdd64e2ae34a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3048
-  },
-  "5dfdc499-87c7-4047-a46e-3875736fba88": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 12668
-  },
-  "a9d90a69-ad7d-4e13-8ca7-42da683e333a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 13113
-  },
-  "649d675a-b232-412f-a670-e89316d411ce": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5479
-  },
-  "7af00e4d-c652-4c52-858c-cab17932c7c3": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19069
-  },
-  "cc0abb4d-d26a-413c-b22b-0f96a1a40a3c": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 2833
-  },
-  "2c703d6e-fb71-44c1-ab66-3bb3cacc847f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 144487
-  },
-  "87f0e6d3-9ca8-42c9-8ebe-304cac86b892": {
-    "created_at": "2026-09-23",
-    "faves_count": 4,
-    "taxon_id": 1505779
-  },
-  "82944050-513d-4c57-ae2e-0696a64c8b87": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 697806
-  },
-  "573e0b87-03e8-4d2e-94b9-a484cd1d3306": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5070
-  },
-  "214696ea-2220-43f1-b13d-287281be0de2": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3740
-  },
-  "0a357a05-7ca6-411d-af82-512b3112f328": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9184
-  },
-  "c1fe25fd-6c2c-419f-b559-41ceba267abf": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 506043
-  },
-  "90eb95a1-ffcb-45a5-b174-439403c58b30": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9184
-  },
-  "49d69c3c-b279-4f66-ab9d-f670c5e81c8c": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9184
-  },
-  "8120ff25-ae76-417a-97ca-18d03c4b11d4": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9184
-  },
-  "77ca04c9-96ce-4080-86d3-248a24c507c3": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19349
-  },
-  "49032b03-d987-4613-ae14-c1ca5d17e618": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 144851
-  },
-  "66ae31ec-3f22-442e-a1c4-ce1e1aad4298": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 979701
-  },
-  "68709792-2fc5-4251-b9e1-6b17f768c13e": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 12632
-  },
-  "713d63c3-4643-4cab-bcbc-d8d7de7897f5": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 14505
-  },
-  "d560d7d7-fe77-41ef-a948-780d017ef318": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5175
-  },
-  "c08c4ed0-c266-4793-b0ef-53c7501e19ea": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 13801
-  },
-  "0003f285-9765-45f0-a2d4-997354385758": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 12748
-  },
-  "b92d70fc-9370-4726-9c1d-d41c62b16a36": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6916
-  },
-  "4aec93cc-8a6b-4430-8232-1f7c9c521df3": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 204472
-  },
-  "46d971be-72ad-46df-befc-6bb113386a1a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19848
-  },
-  "29f05501-057c-4571-8e79-4c68aa06fe38": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 15957
-  },
-  "6b6c3520-61e1-4b2d-b8ce-20c6270d3db8": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 18218
-  },
   "5b03752c-660d-4b1a-8e78-6c3f80941615": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 144764
   },
-  "bbc03687-0734-4a33-a78d-4f55c5a12bde": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145244
-  },
-  "843994a7-3a93-4fee-b485-6e6f93a4a28f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 506118
-  },
-  "eb6da74e-67fb-4226-bcde-36ed66b4278c": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9100
-  },
-  "d5e44802-007d-4df2-888f-3dadb164c7e1": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1454382
-  },
-  "8569ba6c-125e-49f3-9692-919835934f02": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8229
-  },
   "6eea0cb3-3881-45a4-8e17-b7891c2217f1": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 204520
-  },
-  "c1f00bf9-d8a0-4695-8b5b-91ba87ceb252": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8353
-  },
-  "eec59438-24c0-416b-95de-77ff345192ad": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9607
-  },
-  "3d3276a9-e288-499d-bcab-552ec8e8abcf": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 204475
-  },
-  "d1f1daaf-1012-4c48-8406-0ded2ed923ae": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4951
-  },
-  "8421eb27-9bb8-406d-b6d5-0b96e31feae0": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 513926
-  },
-  "7c9827b1-6b9e-443b-a827-242feb39cc62": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 2191
-  },
-  "16fda322-28be-414a-809a-ef644d1aa9a4": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 506118
-  },
-  "578bed41-02be-4bee-a805-68af4857d6b8": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 506118
-  },
-  "4f6c2948-7eb2-439a-86d3-df2f5f59b210": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 14850
-  },
-  "8c783844-3ce7-47a7-b83a-8ef0fe07f766": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144849
   },
   "c225698a-69d5-4ebd-89df-9b924bed8413": {
     "created_at": "2026-09-25",
@@ -493,481 +18,6 @@
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 1286913
-  },
-  "b17246bf-8bc4-482a-80e9-ad574ea530df": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1289638
-  },
-  "2ccff852-9c77-4d6c-b7b8-101c360a405b": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4381
-  },
-  "7d5d41b8-ad5f-43f6-a1e3-bbd39506e3c8": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8234
-  },
-  "bd4f14a1-2f5b-4e9c-a366-ef78eb798aeb": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 5196
-  },
-  "83ad06ee-716d-4ee6-8fd5-1eae0b58320a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 5309
-  },
-  "d1e01966-9f14-4297-a125-9b34cbb9b22f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4885
-  },
-  "93d5424a-693c-4519-994f-e0b7fcc19eef": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9863
-  },
-  "0f3be8e5-59e6-4957-ad90-06ce525c935f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 20307
-  },
-  "158105d5-cf43-451c-bcf3-a3809dbdb7d6": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4589
-  },
-  "587b39c7-25b3-4d85-adfb-df84726fdc59": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4744
-  },
-  "49fe9631-b790-425c-b146-113a14c16a3f": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 5231
-  },
-  "e61cd7b9-7fd5-4986-ba03-39b666fa487b": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4972
-  },
-  "a3b03a32-7da7-4d8d-83e6-3808527d6916": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 203820
-  },
-  "51661422-eef2-45d4-86e2-803de9e8ec0e": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 19822
-  },
-  "55e935f2-802d-48e7-9979-5f22e422c00a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 18911
-  },
-  "23d4e4f2-ad4a-4f4d-8505-341054941095": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 3102
-  },
-  "a33593d6-e709-4224-af9d-b76cf46bad77": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 370399
-  },
-  "6be1196e-0256-4d21-a9fb-8e347f353063": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9721
-  },
-  "a16ee207-8d8e-40c5-9183-fec3d52d3b0a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1432779
-  },
-  "dff32517-7468-4ae5-a01a-7f3ce57233d3": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144792
-  },
-  "97d132a0-ad1d-4c79-82d0-a57048a7ce1d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145234
-  },
-  "cf72de18-e3ea-4a36-891f-4f06296f6532": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 2453
-  },
-  "a4b1ae1e-d672-4938-a5a4-ae62fe645cb8": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4874
-  },
-  "887c50b8-a778-4eb7-9949-14026ed5a4d6": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 6921
-  },
-  "bd0df8a4-c121-44d5-8010-82ca73a990d1": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 204454
-  },
-  "46efb104-9c7b-4645-a627-228d1bd7a83e": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144243
-  },
-  "530612f6-c91e-484f-bfba-463d6d96a624": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 2040
-  },
-  "108519c1-c0ad-4737-8905-715681712924": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 698439
-  },
-  "09ad1775-0579-4bda-b1ae-bf5388512910": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144849
-  },
-  "c97edc9c-1b01-4939-9d2d-e0459835096d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4896
-  },
-  "f1cddace-a5cf-4b65-b56a-93dcdffc3803": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 3048
-  },
-  "1ae57bcb-3012-4c67-8695-20657e28d4e1": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 5276
-  },
-  "5778bd72-6407-41b6-9d6d-246f3a3082dc": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 20372
-  },
-  "d7a66b0e-09ab-4c03-a660-787005b6804a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 5083
-  },
-  "80931f54-60a8-4923-895d-e8a65b16c977": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1505653
-  },
-  "b33ef760-adc1-4e6b-8ef2-7fc99f6be99f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8031
-  },
-  "b8efedf6-2498-4aad-83d6-4c586402e583": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144809
-  },
-  "95c0c5cf-4286-4cb9-b12c-6bc4c807e64f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 723166
-  },
-  "f4cb1136-c66d-44db-8b57-0654ab4da3f5": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 850859
-  },
-  "92c469e0-a294-464e-ba08-e824676cbd6c": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 13709
-  },
-  "cabeb832-10f3-46dc-91b4-ae517f846c2c": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 5407
-  },
-  "55da655a-79f9-40aa-bd4c-c6f01d9782dd": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 2662
-  },
-  "c8bd694c-27b1-41cf-a33b-3702177cccc5": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 8520
-  },
-  "e72f7d4e-1878-4f81-b5df-b530e3c60b09": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4449
-  },
-  "8b71d05a-4ca8-4fc1-afed-4cfdf6faa67d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4838
-  },
-  "dabe2986-ab00-4a68-8dfc-681e49de87e0": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4415
-  },
-  "a6b5856b-ece0-4347-830f-c5a7ba09ce8c": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4415
-  },
-  "dd56a268-bd11-409d-ae75-4d19a36df2e4": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1370789
-  },
-  "6bfb0ce8-57a1-46c5-be1a-d18b5ca0533a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 10274
-  },
-  "d718c5ab-fb2e-46cd-b271-602b2e8073ae": {
-    "created_at": "2026-09-23",
-    "faves_count": 2,
-    "taxon_id": 1289605
-  },
-  "ebc27104-70d4-4674-a1c0-202163f12242": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6915
-  },
-  "cfc5f39a-505c-4feb-b52f-9ddeef9a5e17": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 62529
-  },
-  "555c358c-b21c-4b1a-bb46-887a89c74712": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 1289657
-  },
-  "93873763-bbf1-43de-9b56-1b823d766122": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 7111
-  },
-  "7f493b3f-17fc-4111-a279-87090890cfd0": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19577
-  },
-  "b04190f9-f1b0-4f32-a87e-de594bfe78ab": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 1432779
-  },
-  "a912b56c-497b-4f73-877b-af2621f29f7f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3893
-  },
-  "e03a8a28-110b-4cc7-acf7-5153007fac50": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 8234
-  },
-  "1cfd7f97-e53f-415b-b97d-984de5069796": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 18463
-  },
-  "3825c758-6291-47fe-9fe1-24a9af528fa3": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 10168
-  },
-  "e5cef9ee-910a-4a16-bf86-852c8ba1eb57": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1505775
-  },
-  "d73dcf08-8cd5-4b18-be69-b1b07f643ca4": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4457
-  },
-  "3ae77fe4-1522-4aa4-8295-1ee471a627bd": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9201
-  },
-  "c56b2137-750d-4a95-b452-e9da6dab8470": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5097
-  },
-  "be07c688-6c6f-45c6-8314-dcfb4f4f2e97": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 10247
-  },
-  "1326bcc2-6da7-4aea-8cc4-f651b17ab3af": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 10247
-  },
-  "347e9741-5dc9-4067-8e71-c87edc3a0072": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 906
-  },
-  "d91fb3af-ef8a-4df5-af97-cbf586af48f6": {
-    "created_at": "2026-09-23",
-    "faves_count": 3,
-    "taxon_id": 558446
-  },
-  "d1100848-b57a-48b8-b218-5985bd77d98c": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9092
-  },
-  "0bf1afe8-b644-4bd2-a91d-53407607d943": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5097
-  },
-  "e59b42a6-03b2-45ae-a58b-cf4d5e6d28b2": {
-    "created_at": "2026-09-23",
-    "faves_count": 2,
-    "taxon_id": 503174
-  },
-  "54944b08-c8e9-4e0a-bf6f-017b74d7d7fe": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 8234
-  },
-  "66e39f06-9120-4b96-9414-2510b8dc14a9": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 7018
-  },
-  "a378e455-7cfd-4a85-bf4a-58e01f2a016e": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4893
-  },
-  "e425fec0-bb2b-46cf-9e1b-138b692077e7": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 116844
-  },
-  "f5bdc792-b485-4a1e-ae6a-79ff02e608bc": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 20044
-  },
-  "cc4ecbad-cd0f-4d41-bccb-8373548caecc": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 494355
-  },
-  "369d24c2-99c2-403f-83dd-53dd69bbc3a0": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 15768
-  },
-  "4ad6b0ed-0d35-44c7-9b1b-1c5c1d95447f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9743
-  },
-  "91dad037-034d-4018-bd76-41ae0a182d42": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8514
-  },
-  "01999db6-f3c4-46d5-aee3-974e627ac42c": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 17427
-  },
-  "2aa4df2a-78d0-4e0a-a87c-60ad3e19a7b8": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5106
-  },
-  "c46334fc-0f2a-479c-b851-00e942a8273e": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6417
-  },
-  "c30cb7b9-9c16-49cd-92e1-eb2bdecb181f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 2113
-  },
-  "7c1b93ad-1b7f-431c-9175-ccf9a248fd7c": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 236935
-  },
-  "b780dcef-c9ac-42f2-8e26-cf767ced1e26": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 1026
-  },
-  "50ae1d9a-6604-4bad-b922-045bfcff5b9b": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5196
-  },
-  "9370edee-11dd-42da-96c1-c0c71b218dd9": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 145276
-  },
-  "05053e63-a96b-4b47-a7e5-a4d9274fd85a": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 18584
-  },
-  "43088966-c7c1-4cb0-a490-22e73972cfa6": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 13092
-  },
-  "f541ad2e-e789-48ac-a29e-d35534227766": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 144243
-  },
-  "660c83b4-e1ba-4041-a1de-e6308a95c829": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 10506
-  },
-  "cf7fb4bf-1715-4658-b4f3-14dbb8d92cd7": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 116844
-  },
-  "1bcbddfe-4704-4e9c-8cb7-81192b27d7b4": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 5267
-  },
-  "c3e9c076-c3e4-4041-9865-47e9da39cfa0": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 4087
   },
   "5390dcc6-9aff-44ac-b9ff-2d888f9364cf": {
     "created_at": "2026-09-25",
@@ -1229,35 +279,15 @@
     "faves_count": 1,
     "taxon_id": 9192
   },
-  "c6d0f5ff-6f6e-4df4-a130-8ed071e605f9": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 850859
-  },
   "22b07c49-5322-4a8d-b0b0-28ca5a7aa37c": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 4926
   },
-  "bbcde8f6-4a9f-455c-90bf-7554fc36a9aa": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 126619
-  },
   "2fb7b0b6-19d3-45ba-ac29-f25479f7b0f8": {
     "created_at": "2026-09-25",
     "faves_count": 3,
     "taxon_id": 1409
-  },
-  "e9bb6c4e-93bc-4d45-b90e-dd147bb6cfdd": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8234
-  },
-  "9d7e1199-2390-44ef-ae09-53be5094465d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 6141
   },
   "3505eceb-3c8b-4e95-9823-5eaf2521c822": {
     "created_at": "2026-09-25",
@@ -1269,240 +299,25 @@
     "faves_count": 1,
     "taxon_id": 204472
   },
-  "b23087d2-1f04-480a-b939-430312847971": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 17013
-  },
-  "a663655f-e584-45ab-9038-a7c97480a9dc": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 16063
-  },
   "5ab1c5e1-1376-4fe1-86e1-2473a5bfcad5": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 367493
-  },
-  "8d0601d5-a763-424e-9876-fa14912c4e69": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4940
-  },
-  "feee2de0-8304-4adc-a3ab-cd6d8e97e927": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 515844
-  },
-  "0b261cff-cd6c-4beb-925b-61890fd6d64d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 906
-  },
-  "001b79c6-62be-415f-9905-e28dd0fd3bf0": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4672
-  },
-  "b867b6c1-da36-4917-864a-8cd7c94366ae": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 19667
-  },
-  "4ef4d85e-2bed-4d7b-920f-3367f8e87402": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 20372
-  },
-  "e1954c70-9678-4e0a-8354-dac97b389e06": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 18185
-  },
-  "1dc9b208-ad3d-4a22-a9ed-d43fd61f91c5": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145276
-  },
-  "9330809a-f0c0-45ad-adac-3f265386e2a7": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4715
   },
   "afa79b79-02fa-4dd9-8bac-da511e5388f9": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 2437
   },
-  "93d96059-b7cb-490d-a198-616565bd9ff0": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9346
-  },
-  "beec681c-0da6-4cf1-927a-685ccbf6dbb5": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4765
-  },
-  "07340ba2-b8a8-424c-88a1-87428c701b38": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145242
-  },
   "beeed40e-3bdf-4ea7-92b7-b7bcd4c50c0a": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 12716
   },
-  "a76ebe23-5c1a-4306-91b9-9dae05bb67d0": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9981
-  },
-  "820975cc-08bd-4f90-8455-6624eaa18a69": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1579016
-  },
-  "63fc3e74-c4df-4878-8cd2-cb9bd5c995d6": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 906
-  },
-  "1c7369d8-0443-4c61-a5fc-820e95d0503d": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 5361
-  },
-  "350b847a-2573-41a4-b1ad-a1da29120e7a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145255
-  },
-  "bd32740e-a3a1-4308-817f-fcaa5d5dfa37": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144510
-  },
-  "1160cfe9-532d-4554-a471-050f1e336c8d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 199839
-  },
-  "06f3ebc3-497e-4db6-8e0f-f66715d73cdc": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4641
-  },
-  "239c78d9-2bf7-409f-b485-feab8c7200f6": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145224
-  },
   "da361973-2408-4c76-80cd-6c4d1c0df31a": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 13770
-  },
-  "9d745cf9-7759-4e2d-a72e-e49963679b5f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145276
-  },
-  "9d2c9cd0-ac62-4230-9338-a37d0ab27db7": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 6065
-  },
-  "31a0adbb-8b0e-4384-bac5-0ab694533407": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4270
-  },
-  "48d53722-8eb5-423c-9981-56ab2afde5ef": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144849
-  },
-  "e3d6a4e0-9e14-472d-9c06-6a1cb64688d9": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 19822
-  },
-  "014053d0-184f-4495-a910-9bbfb6aef275": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9195
-  },
-  "1825b243-85d2-46f3-afe8-fffd4980847c": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 204472
-  },
-  "dee56cfb-3788-4b13-b58c-7e0243c74bf9": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144527
-  },
-  "4a3075b5-23b3-48a7-8f3c-ebf05dc3e821": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8088
-  },
-  "509db8d3-d77e-451e-9c0c-44adc3e9e0d4": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 793194
-  },
-  "262f6c08-a4a8-4bd7-a256-9290c26b9c96": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145361
-  },
-  "26e2dcef-1047-4633-8ad8-9d679fa186ab": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 17408
-  },
-  "75a94a1a-291e-408a-a580-e36243d48b36": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3454
-  },
-  "84ab4480-ebf8-4021-881c-b5afd9e0f747": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 18911
-  },
-  "47243e3e-437b-4977-a84b-aba53926bb51": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 605123
-  },
-  "f4453a90-45f2-4325-9f5b-05e3f5b9d785": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 145088
-  },
-  "114bdfb8-c32c-481f-a89c-9d355f1a7d69": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 17364
-  },
-  "ff04adf7-f32d-422a-bb2c-e0471c21b2af": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3857
-  },
-  "b9c622b0-5ff1-42c1-9463-42b6391388d4": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 2366
-  },
-  "3d619b6a-1507-437d-ad2c-b0c9ef421927": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 3850
   },
   "cbcd267b-005b-4bbc-b53e-82a631b24025": {
     "created_at": "2026-09-26",
@@ -1962,7 +777,7 @@
   "41870ee5-af38-4b4f-b804-29cf16454b46": {
     "created_at": "2026-09-26",
     "faves_count": 1,
-    "taxon_id": 2464
+    "taxon_id": 413483
   },
   "42d6c0c2-b4ee-4e3a-b264-bfbb9a03eea4": {
     "created_at": "2026-09-25",
@@ -2129,11 +944,6 @@
     "faves_count": 1,
     "taxon_id": 5268
   },
-  "24767fd0-be40-44eb-8651-13c7021fa26d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145256
-  },
   "d746d623-7244-40f7-b5b6-aa2aa5d2de39": {
     "created_at": "2026-09-25",
     "faves_count": 1,
@@ -2144,85 +954,15 @@
     "faves_count": 1,
     "taxon_id": 116842
   },
-  "a63d160d-6c75-4656-bff5-7f8c5bdc37b4": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 906
-  },
   "2cc60e02-9557-4620-a173-7bb132591625": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 4647
   },
-  "bedfff2b-ecf5-4d4b-9695-69b5f7af327f": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 8484
-  },
   "0a0aae43-1d53-4002-a6f4-3dce68c7dc29": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 14978
-  },
-  "4460f83a-ca10-43a6-95e0-4af8a50c8b3d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 9156
-  },
-  "5c917923-be30-4e19-96e2-efff660c33f0": {
-    "created_at": "2026-09-24",
-    "faves_count": 2,
-    "taxon_id": 5366
-  },
-  "634a7adc-5a37-42ef-9483-1acba39906f4": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 133062
-  },
-  "b3175c1c-121c-4b71-a6b6-96e7d12d61cd": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 201077
-  },
-  "06c9b480-0217-4e35-bdb6-a1d3ecbbd5ff": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 13796
-  },
-  "f29be47a-6b69-472c-be4f-3cd008af6334": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 20526
-  },
-  "1a906854-1fdb-4c77-a8b3-c127f05d2b1a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1289484
-  },
-  "bdf5f5e6-4dce-4a0f-bb4d-29f798e94ae5": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 145234
-  },
-  "8ef1644a-a1d1-48fa-8aae-5687262f518b": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4287
-  },
-  "8ba50694-4865-4dbb-b7fe-797754afbc4d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 6359
-  },
-  "b2d500e6-a6ac-48b3-af85-2fc2fe5ddb31": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 14
-  },
-  "3f611a48-4c46-4f33-97bc-b267358a6063": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 7277
   },
   "43a7bc8a-7e1c-42f2-b5c1-dcbd1c1877e1": {
     "created_at": "2026-09-28",
@@ -2844,76 +1584,6 @@
     "faves_count": 1,
     "taxon_id": 20326
   },
-  "32cb6c2c-79d1-43b3-a15a-d647b4a8a040": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 145276
-  },
-  "53d3fb20-e789-454a-9f40-119fa1c14876": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 4840
-  },
-  "9c1fbd6d-7f20-41ad-a14b-8f24f93793c4": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 19910
-  },
-  "12d7e650-beba-4bb4-8e12-ea763525edd1": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 1454382
-  },
-  "e1cabafb-429d-4085-96f6-96c3e1558349": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 519
-  },
-  "9773b770-82de-4a39-aa2e-8a5dbbd1068d": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 201033
-  },
-  "02980217-74e0-4b24-aace-1fd35b8bc9c4": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 320100
-  },
-  "05d175a8-a6b7-4d45-acb4-5872c111eb78": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 19565
-  },
-  "ec7ea9b7-6a77-45b1-a265-2eb95c5a5a13": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 1506152
-  },
-  "3ada0160-99f2-446d-b0b6-3def4cbd1f4d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 485365
-  },
-  "fe044bbd-6f14-4166-b559-a1f4384f9ef3": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 14824
-  },
-  "d445a4f5-0ae0-419f-8ff1-a1c693eb211b": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 792977
-  },
-  "a5fe7fca-b500-4ab9-b79f-15bc3ea8a62d": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 17835
-  },
-  "de557113-19a3-41ad-b111-67275f739046": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 201033
-  },
   "f7d119e5-39a8-46fa-b118-9647eb318e11": {
     "created_at": "2026-09-28",
     "faves_count": 1,
@@ -2931,7 +1601,7 @@
   },
   "b49bfa19-5ae0-41d8-9bea-163082e83379": {
     "created_at": "2026-09-28",
-    "faves_count": 1,
+    "faves_count": 2,
     "taxon_id": 1286843
   },
   "32615d92-6189-4686-8722-3f3b22c6986b": {
@@ -3061,7 +1731,7 @@
   },
   "771895d2-9ba3-422c-866b-241c7ccb9683": {
     "created_at": "2026-09-28",
-    "faves_count": 1,
+    "faves_count": 2,
     "taxon_id": 1409
   },
   "9e228382-efe1-48c3-8ef4-816bec0f3f79": {
@@ -3531,7 +2201,7 @@
   },
   "4f5667f3-7287-4329-aef5-3947bf08c924": {
     "created_at": "2026-09-27",
-    "faves_count": 1,
+    "faves_count": 2,
     "taxon_id": 1552302
   },
   "07b08a17-5ffd-4cd8-8cda-5ff48ef06e03": {
@@ -3689,55 +2359,10 @@
     "faves_count": 1,
     "taxon_id": 424224
   },
-  "bb32dc96-a8db-4300-ac87-ac1c3975e98a": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144499
-  },
-  "83bbf99a-ccbc-4470-8865-5e10bdd77ee9": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 117153
-  },
-  "46e955e8-68b6-4bda-9be8-868c8704fd59": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 19162
-  },
   "ae6bd00f-a2ad-4ccf-a216-616d26a8a4d6": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 236935
-  },
-  "144c4e35-0a91-451b-af1e-04d528222e92": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144646
-  },
-  "000fe970-7016-42de-be94-66570c1da6ec": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 144820
-  },
-  "981779c3-9ddd-4e23-ba6d-879393096e5f": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 236935
-  },
-  "836d9d75-449b-48fb-a5bc-8b6691650d95": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 9801
-  },
-  "9a81309e-e25c-4950-bc1b-fe3cfc8d85f2": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 236935
-  },
-  "7f84fac9-af58-43a9-aa71-0e9f63bf7c40": {
-    "created_at": "2026-09-23",
-    "faves_count": 1,
-    "taxon_id": 12065
   },
   "4cb870b9-fe03-4188-b70b-d13953e198f0": {
     "created_at": "2026-09-29",
@@ -4266,7 +2891,7 @@
   },
   "428573ef-7d80-481c-b093-8f3dfb053091": {
     "created_at": "2026-09-27",
-    "faves_count": 1,
+    "faves_count": 2,
     "taxon_id": 339586
   },
   "db261dac-8723-4e9f-ad2e-3913f1ead3d5": {
@@ -4394,49 +3019,939 @@
     "faves_count": 1,
     "taxon_id": 893342
   },
-  "f18d92bf-afda-4d24-aaf0-022f78491fe0": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 10224
-  },
-  "4847e2fb-aa65-4070-ba62-3e7f273eabf7": {
-    "created_at": "2026-09-24",
-    "faves_count": 1,
-    "taxon_id": 144816
-  },
   "222b3fe5-f382-409e-a388-542cb1714374": {
     "created_at": "2026-09-25",
     "faves_count": 1,
     "taxon_id": 14710
   },
-  "dbc51ab0-7526-4fe0-9289-88f86cf41771": {
-    "created_at": "2026-09-24",
+  "b969baed-d8ef-4479-88ca-942478a9c05e": {
+    "created_at": "2026-10-01",
     "faves_count": 1,
-    "taxon_id": 59202
+    "taxon_id": 9981
   },
-  "00c0ed17-3088-49f0-827b-ed6824b0ca12": {
-    "created_at": "2026-09-24",
+  "0ad3bdc6-dcb1-4328-b428-61116ae90e87": {
+    "created_at": "2026-10-01",
     "faves_count": 1,
-    "taxon_id": 72458
+    "taxon_id": 4892
   },
-  "eb4fc190-e538-4579-ab91-047b7cef112a": {
-    "created_at": "2026-09-24",
+  "01454d8a-c13e-4c9d-abc4-b44ec5eb6681": {
+    "created_at": "2026-10-01",
     "faves_count": 1,
-    "taxon_id": 145236
+    "taxon_id": 473
   },
-  "a943c598-1db5-44aa-aef8-ff631fc795ca": {
-    "created_at": "2026-09-24",
+  "f1fc186a-9829-4c67-b12f-57771082b821": {
+    "created_at": "2026-10-01",
     "faves_count": 1,
-    "taxon_id": 3352
+    "taxon_id": 9100
   },
-  "c1ee2751-3fe4-4829-b0eb-d44afc9e94d4": {
-    "created_at": "2026-09-24",
+  "bd147e9c-3932-4535-88c3-be6efc452b39": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 62529
+  },
+  "d5777a44-3592-43c8-9335-cc4d15b2a973": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 3580
+  },
+  "dedee5b4-dd9f-4e58-a5cb-f139e7c4a4f6": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 339907
+  },
+  "2968c9ce-c01e-4342-b15b-da1c74931ae5": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 7117
+  },
+  "de8779aa-5b55-43c4-a9d0-522a95c09a27": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 9184
+  },
+  "7059e68e-16c6-41c8-b556-7dda77e1b529": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 979753
+  },
+  "cb3f1118-8235-46e1-8de6-bf3a7e041ae9": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 17827
+  },
+  "b91300ae-55df-4eed-a799-dcc9e09580c5": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 8229
+  },
+  "81167172-d7f1-421d-92de-80ef4bee0686": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 9184
+  },
+  "a444b49e-02a9-4134-b91d-ad2b8eab361a": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 19898
+  },
+  "d00f4a59-3bf9-42ea-9285-8d20f1f2f0a5": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4623
+  },
+  "3fbbad25-1161-4e38-ab68-51cdf924b867": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4892
+  },
+  "4cd8e55f-32ed-48f9-bd46-bc08f8ec90b4": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 18277
+  },
+  "83dd8138-d5b4-49a0-968d-33e6d02b7b05": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 145242
+  },
+  "1ea439e9-6ae9-4075-85d8-132b34369c1e": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 145242
+  },
+  "e9fc6c49-e41e-4bae-8020-7943f0e7b179": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 145276
+  },
+  "56750dfc-3c61-4fe6-bcbf-a0f09ea8d2d3": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 9617
+  },
+  "07008ffc-6a25-4fd5-91c0-888a6959af1f": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 3856
+  },
+  "0b9b7179-b5ff-4d04-8b02-9206886b76e7": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 14824
+  },
+  "97f63d2b-1d90-4d41-be2a-415e8080a0a5": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 475120
+  },
+  "8323d95e-098c-4ca6-9aae-14239b5143fa": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 18911
+  },
+  "242d6db4-cb8d-4204-b414-46e2675f292a": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4672
+  },
+  "c55f141d-db8c-4d48-86ce-778fe196ec0a": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 145240
+  },
+  "0453bc65-bbe3-4c54-94c6-e57310338e94": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4940
+  },
+  "bcc12215-c437-4d3d-9996-b5c5ad66440f": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 7101
+  },
+  "15c21914-1942-4b3c-a393-c7c6f9f0839c": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 5409
+  },
+  "584a3a39-96a9-425e-8b77-84960f95aa28": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4736
+  },
+  "2ace2c4b-dacc-4add-a7ed-baabd51a0aef": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4765
+  },
+  "6e175c7c-1da0-4a31-947d-42ca3624292e": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 7036
+  },
+  "9146d95b-bd87-492c-861e-4ef306bd57c2": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4496
+  },
+  "8e63ea5c-81b0-4e7d-a70f-a47447a41c2d": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 361709
+  },
+  "65ab9a7b-6224-4ee5-8961-126d02111e70": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 18904
+  },
+  "44a27069-9214-4418-bafe-337fee4a25ff": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 7044
+  },
+  "a3a7217d-cb1f-416f-b427-e10a3cedb464": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 13711
+  },
+  "35cd1409-4ad7-4f7b-848d-931f9aeb7fd9": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 204552
+  },
+  "37a553c3-ea49-4b17-afb8-df69cf07f839": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 18921
+  },
+  "1f38785d-a83d-4b05-832c-19ee7d0ac0c8": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 9236
+  },
+  "68aa1c72-0d34-4d55-8269-e7d5a77f345e": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 13000
+  },
+  "50e22aa6-8eb5-4d40-a5ac-259bd40f8435": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 144757
+  },
+  "a7083a0f-ef0b-44f7-bd1c-b79fe2eb6617": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 236935
+  },
+  "d28544b7-3478-4608-a65d-7d37dc58255e": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4224
+  },
+  "b43cb24e-a6a6-4888-ae16-862bfac6b2de": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 6933
+  },
+  "8609efa7-b7ec-41d2-a886-bbe2f23d07ea": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 17871
+  },
+  "853fe3d5-6278-462d-ba7b-28ea6dabf09e": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 3931
+  },
+  "e17eed6a-abd3-47a1-9253-237f4d8c357d": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 471435
+  },
+  "bc14ce3a-915f-47ff-8ffb-4ef952cc25cf": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 339962
+  },
+  "792c2d46-16d0-49bc-970f-c0cbb6b38578": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 72504
+  },
+  "75ce9c15-1d0c-4a1a-95e6-fbed214de6e9": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 516831
+  },
+  "5bc1e112-35e1-4979-81ae-69fc78e777c1": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4835
+  },
+  "cd9c1544-515c-481d-af3c-72b9da4bba6e": {
+    "created_at": "2026-10-01",
     "faves_count": 1,
     "taxon_id": 12716
   },
-  "9483e48d-9ffa-4b92-952d-593f8798f54f": {
-    "created_at": "2026-09-23",
+  "491aeceb-6605-4839-ad9a-4080103dd197": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 19361
+  },
+  "8740def5-ffec-43a6-ad5f-cfe32dd6afa1": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4846
+  },
+  "6ce7b678-6377-4d9c-a93f-bb90822cb8ed": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 4237
+  },
+  "3047f2c5-965e-4678-826f-dc0c1df7b099": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 19667
+  },
+  "11f7e051-968f-4dd9-a408-1e4b51b153cf": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 11353
+  },
+  "238e2656-dc1d-43c5-b115-0953ae1fa063": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 14882
+  },
+  "1f75b481-92e7-44aa-b068-3afe26580024": {
+    "created_at": "2026-10-01",
+    "faves_count": 2,
+    "taxon_id": 13494
+  },
+  "21700360-6894-41c7-ae15-1c10ec1bf1ae": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 413522
+  },
+  "00ef5ff9-2abf-4eba-9cae-54502a0f4ed7": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 410743
+  },
+  "ce3693d0-f951-4607-93cf-11db6bbb7114": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 723166
+  },
+  "e33000b0-4995-4fe5-8c30-b5ac548777eb": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 7137
+  },
+  "5150c0e7-50dc-4e71-b08e-90bb7b4b3155": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 13688
+  },
+  "f170c174-f253-4d15-9503-68bd63fc666c": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 210456
+  },
+  "b49cea46-e182-4006-b715-b45abfd38dac": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 3931
+  },
+  "80def426-af10-49b4-b090-c909bc438bfa": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 20733
+  },
+  "2abfa2f9-1dfe-4aae-90cd-78708402f042": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145236
+  },
+  "de781e8e-534e-4572-a7a0-24cf1699c782": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 204520
+  },
+  "351c401f-a2c0-4bb4-bd0d-dc93708dfad9": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 19022
+  },
+  "26e46791-1736-4aad-9f63-2fe63bc5f482": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 558512
+  },
+  "884369dd-52b2-459b-a879-d44825b79d46": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145240
+  },
+  "09f3edb7-66de-4fac-9642-925581f9e5ef": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 17402
+  },
+  "dd883d67-8fac-434b-a1bc-0506aed53ed5": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 20044
+  },
+  "7347558a-4c1e-4747-9318-8aa9133ff790": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 204496
+  },
+  "df6a6f1e-c117-47d6-a214-f2529edbb446": {
+    "created_at": "2026-10-01",
+    "faves_count": 2,
+    "taxon_id": 407130
+  },
+  "2c11a8eb-d230-4406-bbc1-56d25ab9c1de": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 19680
+  },
+  "99ec23d5-83bc-4a31-bd76-43ce6c2bf227": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145240
+  },
+  "e94b16a0-bb63-4c65-9f59-8b3bb3e88b63": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 14801
+  },
+  "96ca68ca-1015-4a6a-b29e-5f2a69e5898c": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 890
+  },
+  "25910e7b-bc4b-47e9-a08b-51b87fb7be9f": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 7458
+  },
+  "3793a84b-e86e-461f-9708-73654bbf1b7c": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 12878
+  },
+  "21f3ce37-926e-42a6-baeb-721a89ff06bc": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 10325
+  },
+  "94ce96ae-ba4b-4127-bad5-68d41ac78d27": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 1409
+  },
+  "61cd2691-6a5e-4c7a-8dcb-71a8ad5b0fef": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 9864
+  },
+  "a10530bf-352d-4ef2-922d-a675804c3879": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 9721
+  },
+  "e538dd28-0908-4634-a1f9-1c71a84d738e": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 906
+  },
+  "f09c8b28-e2f3-4056-90c3-12f193fb688b": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 20044
+  },
+  "8f3f45d2-6834-4dd1-b50a-d7020869e863": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 236935
+  },
+  "dd8e341f-5fdb-49e4-8849-c67926e27887": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 6921
+  },
+  "03522775-e316-4954-8986-06cc49c2b558": {
+    "created_at": "2026-09-30",
     "faves_count": 1,
     "taxon_id": 9602
+  },
+  "673aa143-ebbd-4468-a8b6-55cf2a115037": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 8229
+  },
+  "0ae5547c-7da1-4474-86da-98c5feb7abe5": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4672
+  },
+  "8dc4e719-1619-4f1f-8654-1db706fd5fb0": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145088
+  },
+  "42c3c780-4ff4-457c-b1e2-27f9f7afacd5": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 9864
+  },
+  "deec9268-6705-4201-a379-b23045ef3287": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 14995
+  },
+  "9b806eba-da7b-4812-9968-604c10a5ad01": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 9607
+  },
+  "a16448d3-e44c-4c2d-83cf-513d7dcaf1c5": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 10322
+  },
+  "3c9c1dd9-6eb0-4626-b2e3-97a1f4620f3f": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 17408
+  },
+  "e51f9986-9a01-4ccd-9295-1fbfc3cc0e6a": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 9609
+  },
+  "c3618105-05a7-4556-9394-204ff4e20bd3": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 19998
+  },
+  "aa565c9f-369b-401f-a184-43ec800b5826": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 15282
+  },
+  "7c6bd76f-b14d-4516-937b-7df07f6d7ef3": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 13695
+  },
+  "6e71c680-de98-4052-ad67-7ec4d1c1c1b8": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 3580
+  },
+  "c44911a8-1592-4983-af9c-066d372a5e9f": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4937
+  },
+  "bb4bf4e8-84c8-4a6b-9145-2f9400c979eb": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 555602
+  },
+  "741a8719-a40e-4475-82c6-6c365a559201": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 11977
+  },
+  "df740157-fe5e-4b61-80ba-64c28ea48ac4": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 16783
+  },
+  "7b857421-86a4-4764-ab3b-c756de759ae2": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145249
+  },
+  "e1810118-6015-426c-9251-0daf1910b351": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145233
+  },
+  "33cb4143-b6d3-485b-85a0-550970e880bf": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 3855
+  },
+  "649ca55c-10c5-4a59-bc88-7290a05cc58a": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 18464
+  },
+  "a481df25-94f7-4b4b-a553-0046ac4556be": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 3850
+  },
+  "0e0a381d-941a-4678-b4bf-ab99c31c2229": {
+    "created_at": "2026-10-01",
+    "faves_count": 1,
+    "taxon_id": 1650525
+  },
+  "86f84fc4-eb84-44c3-bbe7-0122ec17db3c": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 2087
+  },
+  "79e90dc0-7895-4cd8-8366-22331162780d": {
+    "created_at": "2026-10-01",
+    "faves_count": 2,
+    "taxon_id": 7081
+  },
+  "07aed6b8-4c38-457d-8d30-7e382d592f97": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4481
+  },
+  "20e9dfae-99e8-469b-ad67-e20658300969": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 6363
+  },
+  "3c782f68-581a-40bc-86ae-cbbe70172239": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145193
+  },
+  "5e96bab6-33ef-493b-b656-470dcb16656c": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 6435
+  },
+  "be408e23-70bb-48f4-adb1-90f190e3d4f4": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 9801
+  },
+  "77ec6c1d-7aee-424d-89ee-f793abd11c71": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 3882
+  },
+  "8261ffbd-4df3-4fe9-9c25-4c09eca0e7a1": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 16134
+  },
+  "beb48db9-8f32-432b-89c5-ea28549a29ce": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 8234
+  },
+  "a5111b41-cd54-4c64-bbb1-bc046926423e": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 3108
+  },
+  "c777d0c6-911a-44e5-a8ad-2ecaae878824": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4647
+  },
+  "458b1d4e-ee66-4f71-a271-24f956045bb6": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4647
+  },
+  "32b6de22-be6a-4750-ab8d-803f9f69d7e4": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4647
+  },
+  "1d1e60f3-7d39-44e5-9ca9-e4a5aef848e9": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 730505
+  },
+  "fae4b332-9bfd-4bcb-b298-4f7f2088fe57": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 1789
+  },
+  "836702f4-aa0f-47df-97ed-093d0ca6a8d5": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 890
+  },
+  "9f7e90e6-6fd2-41d1-86b8-a2a62c765bd8": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 5071
+  },
+  "e30b042a-2f02-4dcc-bb96-d4459c86e3eb": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 5106
+  },
+  "2b4169d4-a3cd-4089-b50c-9ad2993e3cd2": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 339594
+  },
+  "57359177-139e-4cd8-8baa-bbeae404f6b3": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 1505781
+  },
+  "9ff55b07-632d-4e1e-b3cb-d9727641c5af": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 5167
+  },
+  "fc5a05c8-986d-4143-9ad6-bdc9175fee55": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 20115
+  },
+  "d7f65bfb-2187-4e0b-bb35-676f09cbe6fc": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 20115
+  },
+  "7d6e2323-21b0-4086-90fd-c57a8bef8d20": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 145240
+  },
+  "fab18af9-3a85-438e-aff4-a9e4268a52fd": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 4341
+  },
+  "511471c8-381a-48ec-85b8-fc9c676e8bef": {
+    "created_at": "2026-09-30",
+    "faves_count": 2,
+    "taxon_id": 4341
+  },
+  "41e6b5ea-1b2a-4257-b889-373cc2b601cc": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 12065
+  },
+  "fd18defe-3665-450e-ab3d-1548c883413a": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 6937
+  },
+  "6b40cc7d-8e96-41de-a3ab-b52ecc168104": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 1289400
+  },
+  "4cd991db-b367-4610-97f3-1a94e34fc26f": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 20044
+  },
+  "55079ccc-9f55-4a9f-bcdf-3b0a79e46b5b": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 13893
+  },
+  "4cd6fd45-e067-488e-919b-c9a808200445": {
+    "created_at": "2026-09-30",
+    "faves_count": 1,
+    "taxon_id": 1432695
+  },
+  "20ee0eb0-3c23-4540-bd79-687940358ead": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 14
+  },
+  "3a02bf24-29d1-4215-9ada-d27f37459a0f": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 9609
+  },
+  "bbcab73d-4e59-4f97-a455-d89f66c8ef9e": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 6898
+  },
+  "2f69daa2-fa8c-4c21-975d-1d79c4d8f30b": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 1289622
+  },
+  "61d6f21b-06b6-4c72-a8ce-f5bdc41e1f7a": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 3108
+  },
+  "1c231f12-299f-4056-ab57-2efe48fb70eb": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 8234
+  },
+  "5a67347e-4583-4cda-beca-de741aa6e458": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 19
+  },
+  "f8716338-0a8d-4f85-98f1-e7e9c4629433": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 1468
+  },
+  "2be35760-4312-420a-b159-4c0767cf153b": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 117016
+  },
+  "33b6a0d3-97b4-4e17-ae76-e4229b7ee0c7": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 19687
+  },
+  "60cd2c1a-4aab-4363-886d-dcc76b649049": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 1289400
+  },
+  "a45cd90a-a246-421f-ad60-164dc0ec59d4": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 56768
+  },
+  "00c56b98-d899-4865-8335-cf56de20fa04": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 210456
+  },
+  "c1f60e12-5183-4ec7-be57-4c73f4ec1815": {
+    "created_at": "2026-09-29",
+    "faves_count": 1,
+    "taxon_id": 722907
+  },
+  "442b9396-965d-497a-9348-1e343f700a26": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 145236
+  },
+  "2062ab0a-5520-4ad6-8a0f-b3f3d4439d2e": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 145236
+  },
+  "754a21c5-7a50-49a7-84c1-2c3236523e66": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 145276
+  },
+  "fb7b2c34-5c21-46d4-b63d-4c1284d934a6": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 6916
+  },
+  "92eb4664-48e4-43e7-add8-a8c67265bb1b": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 73155
+  },
+  "9789e51a-f9db-488a-9262-341ea69bea9a": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 10094
+  },
+  "eaaeda9c-1f39-49a5-aff8-7bb74fbce57d": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 8234
+  },
+  "a714095a-29c6-4b24-8ab7-4473489c583e": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 5178
+  },
+  "020c751c-95ac-4c0e-9104-88d7f8855226": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 1580323
+  },
+  "1af272ce-c612-4802-ba99-12c221a17583": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 145236
+  },
+  "ed6d6d29-a6e7-4502-bb16-2e3e3c50a8e1": {
+    "created_at": "2026-09-28",
+    "faves_count": 1,
+    "taxon_id": 17835
+  },
+  "e37ba4c4-7bdf-4f9e-b2a8-30fb9654277b": {
+    "created_at": "2026-09-27",
+    "faves_count": 2,
+    "taxon_id": 890
+  },
+  "28a832c0-a7e0-4acd-a8e9-4b97e69f356b": {
+    "created_at": "2026-09-27",
+    "faves_count": 1,
+    "taxon_id": 11397
+  },
+  "5338f128-2442-411f-96ae-216f92fdf7be": {
+    "created_at": "2026-09-27",
+    "faves_count": 1,
+    "taxon_id": 12942
+  },
+  "200b9462-09db-4835-a9bb-ac8608fcd293": {
+    "created_at": "2026-09-27",
+    "faves_count": 1,
+    "taxon_id": 56768
+  },
+  "1b216c23-de87-4297-96c1-511c2c4eb85f": {
+    "created_at": "2026-09-27",
+    "faves_count": 1,
+    "taxon_id": 1702789
+  },
+  "7d4e2ea2-7617-4c81-9b41-b321bc6f6a97": {
+    "created_at": "2026-09-26",
+    "faves_count": 2,
+    "taxon_id": 545982
+  },
+  "163bab5c-6cdb-4c57-aea9-cc2d6721eab1": {
+    "created_at": "2026-09-27",
+    "faves_count": 1,
+    "taxon_id": 5032
+  },
+  "db795b31-749f-4808-a125-507fbe14cf1b": {
+    "created_at": "2026-09-26",
+    "faves_count": 1,
+    "taxon_id": 572
+  },
+  "435b7a58-1435-462e-9f17-9f30fd85b207": {
+    "created_at": "2026-09-26",
+    "faves_count": 1,
+    "taxon_id": 17835
+  },
+  "f31ab494-3673-4069-998e-72eea9a50dd5": {
+    "created_at": "2026-09-25",
+    "faves_count": 1,
+    "taxon_id": 8234
+  },
+  "f3458691-8337-4916-929f-e14d90e7e6e6": {
+    "created_at": "2026-09-25",
+    "faves_count": 1,
+    "taxon_id": 62529
+  },
+  "910a2d05-f1cd-40d6-80dc-2663f59300ff": {
+    "created_at": "2026-09-25",
+    "faves_count": 1,
+    "taxon_id": 2269
   }
 }
